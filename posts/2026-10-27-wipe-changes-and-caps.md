@@ -29,6 +29,6 @@ The Cache now holds one ship (locked until the wipe, it keeps all its equipment)
 - A look for the top ranks
 - Loot containers and a season title
 
-From the first wipe of the new rules, only experience, levels and kills since the last wipe count towards ranking points. Honor does not set your rank.
+After the first wipe of the new rules, ranking points count only the experience, levels and kills you earn after the previous wipe. Honor does not set your rank.
 
 Full rules: the wiki pages Wipe Timeline and Seasons and Rewards.
